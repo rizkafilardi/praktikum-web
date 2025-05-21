@@ -28,7 +28,7 @@ class StudentSeeder extends Seeder
                 'phone_number' => '085135794810',
                 'birth_date' => '2005-06-27',
                 'gender' => 'Female',
-                'status' => 'active',
+                'status' => 'Active',
                 'major_id' => 2,
             ],
         ]);
